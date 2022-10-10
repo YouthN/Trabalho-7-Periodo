@@ -150,7 +150,7 @@ z-index: 999;}
 .mainmenu-area ul.navbar-nav li:hover a, .mainmenu-area ul.navbar-nav li.active a {background: #de5974; color:#FFF;}
 .mainmenu-area .nav > li > a:focus {color: #FFF;}
 
-.slider-area { width:30%; position:relative; margin:0 auto; padding:5px;}
+.slider-area { width:300px; position:relative; margin:0 auto; padding:5px;}
 /*-------------------------
 [9. Block slider]
 ---------------------------*/
